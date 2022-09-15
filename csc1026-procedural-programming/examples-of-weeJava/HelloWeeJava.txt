@@ -1,0 +1,9 @@
+
+// The first program in weeJava
+public class HelloWeeJava {
+	
+	public static void main(String[] args) {
+		HobbitsSay("Hello weeJava!");
+	}
+
+}
