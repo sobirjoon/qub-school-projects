@@ -2,4 +2,5 @@ In this project, I need to write in Java a parser for weeJava programs.
 The parser parses an input program written in weeJava and (to a very limited degree) checks its compile time errors. 
 This is similar to what Eclipse does when you code in Java. 
 
-weeJava is a subset of the Java programming language
+weeJava is defined as a subset of the Java programming language. 
+It allows the following operations, symbols, keywords and identifiers, which keep their original meaning as in Java. 
